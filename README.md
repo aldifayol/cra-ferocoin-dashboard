@@ -1,2 +1,2 @@
-# webapp101
-using javascript
+# ferocoin
+using create-react-app
